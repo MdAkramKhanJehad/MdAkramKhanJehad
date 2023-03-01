@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hello! I'm Akram</h2> 
 
-👨‍🎓 4th year undergrad student,<br>
+👨‍🎓 Fresh Graduate,<br>
 🏫 IIT, Universty of Dhaka.
 <br><br>
   
