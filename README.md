@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hello! I'm Akram</h2> 
 
-👨‍🎓 Fresh Graduate,<br>
-🏫 IIT, Universty of Dhaka.
+👨‍🎓 CS Graduate Student,<br>
+🏫 William and Mary, Williamsburg, VA, USA.
 <br><br>
   
 <img style="pointer-events: none;" src="https://github-readme-stats.vercel.app/api?username=MdAkramKhanJehad&&show_icons=true&title_color=D5F5E3&icon_color=27AE60&text_color=ffffff&bg_color=212F3D">
@@ -13,12 +13,9 @@
 <!--
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Graduate Teaching Assistant
+- 🌱 I’m currently learning how to do research
+- 📫 How to reach me: mkhan04@wm.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: No time to fun
 -->
