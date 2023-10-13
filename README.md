@@ -11,8 +11,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdAkramKhanJehad&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 <!--
-
-
 - 🔭 I’m currently working as a Graduate Teaching Assistant
 - 🌱 I’m currently learning how to do research
 - 📫 How to reach me: mkhan04@wm.edu
