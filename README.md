@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hello! I'm Akram</h2> 
 
-👨‍🎓 CS Graduate Student,<br>
+👨‍🎓 2nd year CS PhD Student,<br>
 🏫 William & Mary, Williamsburg, VA, USA.
 <br><br>
   
